@@ -1,0 +1,22 @@
+Package: SC19025
+Type: Package
+Title: The final homework for 'Statistical Computing' course
+Version: 1.0
+Date: 2019-12-31
+Author: SC19025
+Maintainer: SC19025 <2018773571@qq.com>
+Description: The functions for nonparametric hypothesis testing and all my homework.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3), xtable, DAAG, Ball, GeneralizedHyperbolic, MASS, bootstrap, microbenchmark,rootSolve
+Suggests: knitr, rmarkdown
+LinkingTo: Rcpp
+Encoding: UTF-8
+RoxygenNote: 7.0.2
+VignetteBuilder: knitr
+URL: http://github.com/SC19025/SC19025
+BugReports: http://github.com/SC19025/SC19025/issues
+
+
+
+
+
